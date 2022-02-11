@@ -9,7 +9,7 @@ function App() {
 
   // using axios to get api instead of fetch as it is a public api with no keys
   useEffect(() => {
-    axios.get('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false')
+    axios.get('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=1000&page=1&sparkline=false')
     .then(res => {
       setCoins(res.data);
     })
