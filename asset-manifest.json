@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crpytocurrency_price_tracker01/static/css/main.40dd5a8e.css",
+    "main.js": "/crpytocurrency_price_tracker01/static/js/main.8e9ab8a7.js",
+    "index.html": "/crpytocurrency_price_tracker01/index.html",
+    "main.40dd5a8e.css.map": "/crpytocurrency_price_tracker01/static/css/main.40dd5a8e.css.map",
+    "main.8e9ab8a7.js.map": "/crpytocurrency_price_tracker01/static/js/main.8e9ab8a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40dd5a8e.css",
+    "static/js/main.8e9ab8a7.js"
+  ]
+}
